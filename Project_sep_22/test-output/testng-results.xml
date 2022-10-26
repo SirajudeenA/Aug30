@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-24T22:46:29 IST" name="Default suite" finished-at="2022-09-24T22:46:29 IST" duration-ms="45">
+    <groups>
+    </groups>
+    <test started-at="2022-09-24T22:46:29 IST" name="Default test" finished-at="2022-09-24T22:46:29 IST" duration-ms="45">
+      <class name="com.features.testng.Annotation_TestNG">
+        <test-method is-config="true" signature="login()[pri:0, instance:com.features.testng.Annotation_TestNG@619713e5]" started-at="2022-09-24T22:46:29 IST" name="login" finished-at="2022-09-24T22:46:29 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="CasualDress()[pri:0, instance:com.features.testng.Annotation_TestNG@619713e5]" started-at="2022-09-24T22:46:29 IST" name="CasualDress" finished-at="2022-09-24T22:46:29 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CasualDress -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.features.testng.Annotation_TestNG@619713e5]" started-at="2022-09-24T22:46:29 IST" name="logout" finished-at="2022-09-24T22:46:29 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="summerDress()[pri:0, instance:com.features.testng.Annotation_TestNG@619713e5]" started-at="2022-09-24T22:46:29 IST" name="summerDress" finished-at="2022-09-24T22:46:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- summerDress -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.features.testng.Annotation_TestNG@619713e5]" started-at="2022-09-24T22:46:29 IST" name="login" finished-at="2022-09-24T22:46:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.features.testng.Annotation_TestNG@619713e5]" started-at="2022-09-24T22:46:29 IST" name="logout" finished-at="2022-09-24T22:46:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:com.features.testng.Annotation_TestNG@619713e5]" started-at="2022-09-24T22:46:29 IST" name="login" finished-at="2022-09-24T22:46:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="tShirt()[pri:0, instance:com.features.testng.Annotation_TestNG@619713e5]" started-at="2022-09-24T22:46:29 IST" name="tShirt" finished-at="2022-09-24T22:46:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tShirt -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:com.features.testng.Annotation_TestNG@619713e5]" started-at="2022-09-24T22:46:29 IST" name="logout" finished-at="2022-09-24T22:46:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.features.testng.Annotation_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
